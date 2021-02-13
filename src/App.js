@@ -1,11 +1,11 @@
 import './App.css';
-import Header from './Header';
+import HeaderContainer from './HeaderContainer';
 //import {Button} from "@material-ui/core";
 
 function App() {
   return (
     <div>
-      <Header/>
+      <HeaderContainer/>
     </div>
   );
 }
